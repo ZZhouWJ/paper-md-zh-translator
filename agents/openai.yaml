@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper MD Zh Translator"
+  short_description: "Fast Chinese Markdown/PDF translation for extractable-text biology papers."
+  default_prompt: "Translate this extractable-text English life-science paper into searchable Chinese Markdown/PDF, crop figures/tables/equations as images, preserve References and back matter in English, and create a structured Chinese summary PDF."
